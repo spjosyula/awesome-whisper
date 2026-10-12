@@ -86,6 +86,7 @@
 - [Free Podcast Transcription](https://freepodcasttranscription.com) - Runs locally in your browser.
 - [Gladia](https://www.gladia.io) - Transcription with real-time processing.
 - [Whisper-Web](https://github.com/PierreMesure/whisper-web) - Local transcription using WebGPU, with optimised fine-tuned models for several languages. (FOSS)
+- [Ratproof](https://ratproof.app) - Transcription that runs locally in your browser and works offline.
 
 ### Self-hosted
 
